@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-02T17:13:05 IST" name="Default suite" finished-at="2024-02-02T17:14:18 IST" duration-ms="73097">
+    <groups>
+    </groups>
+    <test started-at="2024-02-02T17:13:05 IST" name="Default test" finished-at="2024-02-02T17:14:18 IST" duration-ms="73097">
+      <class name="Scenarios_for_Certifications.Progress_Bars_and_Sliders">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Scenarios_for_Certifications.Progress_Bars_and_Sliders@3f6b0be5]" started-at="2024-02-02T17:13:05 IST" name="setUp" finished-at="2024-02-02T17:14:04 IST" duration-ms="59337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Drag_Drop_Sliders()[pri:0, instance:Scenarios_for_Certifications.Progress_Bars_and_Sliders@3f6b0be5]" started-at="2024-02-02T17:14:04 IST" name="Drag_Drop_Sliders" finished-at="2024-02-02T17:14:15 IST" duration-ms="11170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Drag_Drop_Sliders -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Scenarios_for_Certifications.Progress_Bars_and_Sliders@3f6b0be5]" started-at="2024-02-02T17:14:15 IST" name="tearDown" finished-at="2024-02-02T17:14:18 IST" duration-ms="2561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Scenarios_for_Certifications.Progress_Bars_and_Sliders -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
